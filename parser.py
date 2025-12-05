@@ -1,7 +1,3 @@
-
-Shakur
-
-
  # python
 import re
 
