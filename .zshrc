@@ -1,6 +1,4 @@
 Current IP Address: 102.89.34.50
-
-
 telnet khml 80.
 GET / HTTP/1.1 HOST: HOSTNAME 
 Aura api
