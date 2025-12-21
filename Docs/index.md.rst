@@ -1,6 +1,6 @@
-<html itemscope itemtype="https://schema.org/WebPage" class="no-js no-ie" lang="en" dir="ltr">                                                                                                                  <script nonce="D4SUUOvsReCYcWH9w4ePzA">
+<html itemscope itemtype="https://schema.org/WebPage" class="no-js no-ie" lang="en" dir="ltr">                                                                                                                  <script nonce="gsap.min.js">
   function r(p){try{window.stop();}catch(exception){document.execCommand('Stop');}window.location.replace(p+window.location.search)}var ua=navigator.userAgent;if(ua.match(".*NT 5\.[12].*")!==null){ r("/chrome/fallback/") }if(ua.indexOf("MSIE")>=0||ua.indexOf("Trident/7.0") > 0){ r("/chrome/fallback/") }if((!/Chrome|Chromium|CriOS|FxiOS/.test(ua) && (((wk = new RegExp("AppleWebKit\\/(\\d+)").exec(ua)) !== null && parseInt(wk[1]) < 605) || ((v = new RegExp("Version\\/(\\d+).*Safari\\/").exec(ua)) !== null && parseInt(v[1]) <= 14 && (wk = new RegExp("AppleWebKit\\/(\\d+)").exec(ua)) !== null && parseInt(wk[1]) >= 605)))){ r("/chrome/fallback/") }if((/Macintosh.*Firefox\/(11[0-5]|10\d|\d{1,2})\./.test(ua))){ r("/chrome/fallback/") }</script>
-  <head>
+  <head> 
     <meta charset="utf-8">
     <meta http-equiv="content-language" content="en-us">
     <meta name="apple-itunes-app" content="app-id=535886823, affiliate-data=ct=global-chrome-web-smart-app-banner&pt=9008">
